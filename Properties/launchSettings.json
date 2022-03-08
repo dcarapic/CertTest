@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CertTest": {
+      "commandName": "Project",
+      "commandLineArgs": "search --subject \"CN=localhost\" --validonly false"
+    }
+  }
+}
